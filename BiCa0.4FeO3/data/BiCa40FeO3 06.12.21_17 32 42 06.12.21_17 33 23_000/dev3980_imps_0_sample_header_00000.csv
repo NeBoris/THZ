@@ -1,0 +1,5 @@
+chunk_number;chunk_size;last_timestamp;fill_holes;min_delta;data_loss;block_loss;rate_change;invalid_delta;trigger;system_time;created_timestamp;changed_timestamp;flags;module_flags;chunk_size_bytes;history_name;history_status;history_group_index;history_color;history_active_row;sw-trigger_number;grid_columns;grid_rows;grid_reserved;grid_mode;grid_operation;grid_direction;grid_repetitions;grid_col_delta;grid_col_offset;grid_row_delta;grid_row_offset;grid_bandwidth;grid_center;grid_nenbw
+0;1;9786501425083;0;0;0;0;0;0;0;1638801164980792;9785950276940;9786501425083;57;0;0;020 17:32:44.9807;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+1;1;9787271936034;0;0;0;0;0;0;0;1638801173302268;9786533941150;9787271936034;57;0;0;021 17:32:53.3022;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+2;1;9788040635634;0;0;0;0;0;0;0;1638801186118001;9787302535562;9788040635634;57;0;0;022 17:33:06.1180;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+3;1;9788356337989;0;0;0;0;0;0;0;1638801198909732;9788070109012;9788356337989;57;0;0;023 17:33:18.9097;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0

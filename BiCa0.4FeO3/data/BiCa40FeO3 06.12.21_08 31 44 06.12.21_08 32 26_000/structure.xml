@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <header>
+    <version>1</version>
+    <date>2021-Dec-06 08:32:26</date>
+    <sessionID>sessionID</sessionID>
+    <author>Zurich Instruments AG</author>
+    <description>LabOne Data Structure</description>
+  </header>
+</root>

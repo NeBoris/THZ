@@ -1,0 +1,5 @@
+chunk_number;chunk_size;last_timestamp;fill_holes;min_delta;data_loss;block_loss;rate_change;invalid_delta;trigger;system_time;created_timestamp;changed_timestamp;flags;module_flags;chunk_size_bytes;history_name;history_status;history_group_index;history_color;history_active_row;sw-trigger_number;grid_columns;grid_rows;grid_reserved;grid_mode;grid_operation;grid_direction;grid_repetitions;grid_col_delta;grid_col_offset;grid_row_delta;grid_row_offset;grid_bandwidth;grid_center;grid_nenbw
+0;1;9314979669109;0;0;0;0;0;0;0;1638793306109290;9314427903005;9314979669109;57;0;0;344 15:21:46.1092;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+1;1;9315749893433;0;0;0;0;0;0;0;1638793314442767;9315011744678;9315749893433;57;0;0;345 15:21:54.4427;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+2;1;9316522115160;0;0;0;0;0;0;0;1638793327298502;9315783133033;9316522115160;57;0;0;346 15:22:07.2985;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
+3;1;9316839544356;0;0;0;0;0;0;0;1638793340134236;9316553385462;9316839544356;57;0;0;347 15:22:20.1342;0;0;0;0;0;0;0;0;off;replace;forward;0;0;0;0;0;nan;0;0
